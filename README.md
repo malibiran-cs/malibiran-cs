@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-I build back-end systems and the infrastructure that keeps them running — from custom web apps to automation solutions for clients. Comfortable across the stack when I need to be, but this is where I actually live.
+I am a second-year Computer Science student currently studying at Batangas State University. I am intrigued by progressive programming and how the cloud works behind every system. I have understood the fundamentals of Java, Python, and C++ - as well as making projects using these languages. I attain to learn more and to apply them in a real-world scenarios as preparation in being a work-ready individual. Through the powers of technology, I shall hold such capability to reach our nearest future.
 
 ---
 
@@ -18,6 +18,12 @@ I build back-end systems and the infrastructure that keeps them running — from
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
+**Web**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
 **Infra & Cloud**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -28,7 +34,6 @@ I build back-end systems and the infrastructure that keeps them running — from
 **Dev & Design Tools**
 
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
 
