@@ -12,9 +12,9 @@ I am a second-year Computer Science student currently studying at Batangas State
 
 ### 🚀 Currently
 
-- 🔭 Working on: _[fill this in]_
-- 🌱 Learning: _[fill this in]_
-- 👯 Open to collaborating on: _[fill this in]_
+- 🔭 Working on: Getting Certificates, Attending Webinars, Building a Virtual Machine
+- 🌱 Learning: Java, Linux Distros, Fundamentals of Cloud Services, Fundamentals of SQL / Databases
+- 👯 Open to collaborating on: Full-Stack Beginner Friendly Projects
 
 ---
 
@@ -68,15 +68,14 @@ I am a second-year Computer Science student currently studying at Batangas State
 
 </div>
 
-> This animated snake needs a one-time GitHub Actions setup — see the `snake.yml` workflow file included alongside this README, plus the setup steps below.
-
 ---
 
 ### 📫 Connect with Me
 
 <div align="center">
 
-<!-- Badges go here once you send over your links/handles -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-angelo-malibiran-a57061431/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/markangelo.malibiran.3)
 
 </div>
 
