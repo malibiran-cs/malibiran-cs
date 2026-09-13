@@ -10,6 +10,14 @@ I am a second-year Computer Science student currently studying at Batangas State
 
 ---
 
+### 🚀 Currently
+
+- 🔭 Working on: _[fill this in]_
+- 🌱 Learning: _[fill this in]_
+- 👯 Open to collaborating on: _[fill this in]_
+
+---
+
 ### 🛠️ Tech Stack
 
 **Languages**
@@ -61,6 +69,16 @@ I am a second-year Computer Science student currently studying at Batangas State
 </div>
 
 > This animated snake needs a one-time GitHub Actions setup — see the `snake.yml` workflow file included alongside this README, plus the setup steps below.
+
+---
+
+### 📫 Connect with Me
+
+<div align="center">
+
+<!-- Badges go here once you send over your links/handles -->
+
+</div>
 
 ---
 
